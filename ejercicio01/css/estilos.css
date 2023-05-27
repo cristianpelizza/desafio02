@@ -1,0 +1,86 @@
+body {
+    background-color: #273238;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 60px;
+}
+
+h2 {
+    font-family: Impact, Charcoal, sans-serif;
+    font-style: italic;
+    letter-spacing: 2px;
+    font-weight: lighter;
+}
+
+img {
+    padding: 5px 5px 5px 5px;
+    margin-left: 35px;
+}
+
+
+
+p {
+    color: #CFD8DB;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    font-size: 12px;
+}
+
+.lucida {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+.impact {
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+.arial {
+    font-family: Arial, Gadget, sans-serif;
+}
+
+#aspiradoras_title {
+    color: #E6CBBF;
+}
+
+#celulares_title {
+    color: #A1C1CB;
+}
+
+#consolas_title {
+    color: #BCBDBF;
+}
+
+#productos_title {
+    color: #698593;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+#home_title {
+    color: #8D94A1;
+}
+
+#tv_title {
+    color: #B2B2AA;
+}
+
+#aspiradoras_img {
+    background-color: #E6CBBF;
+}
+
+#celulares_img {
+    background-color: #A1C1CB;
+}
+
+#consolas_img {
+    background-color: #BCBDBF;
+}
+
+#home_img {
+    background-color: #8D94A1;
+}
+
+#tv_img {
+    background-color: #B2B2AA;
+}

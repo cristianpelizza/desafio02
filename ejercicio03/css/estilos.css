@@ -1,0 +1,60 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.logo {
+    width: 30%;
+    margin-left: 700px;
+}
+
+h1 {
+    text-align: center;
+    color: #bb5397;
+    font-size: 50px;
+    font-weight: lighter;
+    letter-spacing: 17px;
+}
+
+
+
+h2 {
+    color: #bb5397;
+    letter-spacing: 10px;
+}
+
+
+p {
+    color: rgb(61, 99, 186);
+    font-size: 16px;
+}
+
+
+.pop {
+    float: right;
+    width: 400px;
+    margin-left: 20px;
+
+}
+
+.caribean {
+    width: 400px;
+    float: left;
+    margin-right: 20px;
+
+}
+
+.animal-kingdom {
+    width: 400px;
+    float: right;
+}
+
+.animal {
+    margin: 50px;
+}
+
+.minie {
+    width: 2000px;
+    margin-top: 20px;
+}
